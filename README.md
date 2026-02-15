@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-1219&label=Profile%20views&color=0e75b6&style=flat" alt="saif-1219" /> </p>
 
-- 🌱 Currently immersed in the world of **Computer Graphics**
-
-- 📝 I'm interested in **Game Development, Computer graphics and Robotics**
+- 📝 I'm interested in **Robotics, Computer Vision, and Computer Graphics**
 
 - 📫 How to reach me **saif.nazir@gmail.com**
 
